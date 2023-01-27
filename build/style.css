@@ -984,9 +984,6 @@ input#checkboxLabel:checked ~ .box span{
 .w-3{
   width: 0.75rem;
 }
-.w-\[140px\]{
-  width: 140px;
-}
 .w-6{
   width: 1.5rem;
 }
@@ -1328,9 +1325,6 @@ input#checkboxLabel:checked ~ .box span{
 .p-7{
   padding: 1.75rem;
 }
-.p-2{
-  padding: 0.5rem;
-}
 .p-4{
   padding: 1rem;
 }
@@ -1488,9 +1482,6 @@ input#checkboxLabel:checked ~ .box span{
 .pb-16{
   padding-bottom: 4rem;
 }
-.pr-3{
-  padding-right: 0.75rem;
-}
 .pr-5{
   padding-right: 1.25rem;
 }
@@ -1536,9 +1527,6 @@ input#checkboxLabel:checked ~ .box span{
 .text-2xl{
   font-size: 1.5rem;
   line-height: 2rem;
-}
-.text-\[8px\]{
-  font-size: 8px;
 }
 .font-semibold{
   font-weight: 600;
@@ -1871,10 +1859,6 @@ input#checkboxLabel:checked ~ .box span{
 .dark .dark\:text-white{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-.dark .dark\:text-\[\#959595\]{
-  --tw-text-opacity: 1;
-  color: rgb(149 149 149 / var(--tw-text-opacity));
 }
 .dark .dark\:text-dark{
   --tw-text-opacity: 1;
